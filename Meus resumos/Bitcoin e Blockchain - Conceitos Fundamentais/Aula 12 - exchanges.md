@@ -23,8 +23,8 @@
 ## 3. Funcionamento das Exchanges
 
 - **Processo de Compra:**
-  1. **Criação de Conta:** Você cria uma conta e deposita dinheiro na exchange.
-  2. **Troca de Promessas:** Para vender bitcoins, você faz a mesma operação.
+  **Criação de Conta:** Você cria uma conta e deposita dinheiro na exchange.
+  **Troca de Promessas:** Para vender bitcoins, você faz a mesma operação.
   
 - **Exemplo Prático:**
   - **José:** Deposita dinheiro na exchange e deseja comprar bitcoins.
