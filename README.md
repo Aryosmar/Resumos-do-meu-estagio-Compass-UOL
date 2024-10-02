@@ -11,3 +11,5 @@
 # Resumos-do-meu-estagio-Compass-UOL
 ## Este repositório contém resumos e anotações dos principais aprendizados adquiridos durante o estágio na Compass UOL.
 
+![escrevendo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh4eXFjbThwN2Q2bWY0ZTdwd21vNm1meDJ5ZTk1bmU4Zzd2cHN0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6xi8dXsRhIjK/giphy.gif)
+
