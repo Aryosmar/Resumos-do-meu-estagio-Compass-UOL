@@ -16,5 +16,5 @@ Uma blockchain, como o nome diz, é uma cadeia de blocos. Cada bloco contém uma
 
 **Resposta:** Uma função Hash pega um texto de entrada (input) de qualquer tamanho e gera um texto de saída (output) de tamanho fixo, que é uma combinação de letras e números. Essa função tem várias propriedades que garantem a segurança da blockchain, como a dificuldade de gerar o mesmo output para diferentes inputs e a irreversibilidade do processo.
 
-![Função hash](materia/Hash.png)
+
 
