@@ -1,5 +1,3 @@
-# Resumos-do-meu-estagio-Compass-UOL
-## Este repositório contém resumos e anotações dos principais aprendizados adquiridos durante o estágio na Compass UOL.
 <div> 
   
   <a href="https://www.instagram.com/aryfelipe95/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -9,4 +7,7 @@
   
   
 </div>
+
+# Resumos-do-meu-estagio-Compass-UOL
+## Este repositório contém resumos e anotações dos principais aprendizados adquiridos durante o estágio na Compass UOL.
 
