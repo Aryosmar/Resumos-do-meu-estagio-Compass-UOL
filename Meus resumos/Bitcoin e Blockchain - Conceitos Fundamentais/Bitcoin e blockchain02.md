@@ -16,13 +16,13 @@ Uma blockchain, como o nome diz, é uma cadeia de blocos. Cada bloco contém uma
 
 **Resposta:** Uma função Hash pega um texto de entrada (input) de qualquer tamanho e gera um texto de saída (output) de tamanho fixo, que é uma combinação de letras e números. Essa função tem várias propriedades que garantem a segurança da blockchain, como a dificuldade de gerar o mesmo output para diferentes inputs e a irreversibilidade do processo.
 
-![Função hash](material/Hash.png)
+![Função hash](Hash.png)
 
 ## Exemplo prático
 
 **Resposta:** No exemplo de um catálogo de livros, cada título tem um código ISBN de tamanho fixo, independentemente do tamanho do livro. Da mesma forma, uma função Hash criptográfica cria um código fixo a partir de qualquer tamanho de texto.
 
-![exemplo](material/hash2.png)
+![exemplo](hash2.png)
 
 ## O que significa a função Hash ser livre de colisão?
 
