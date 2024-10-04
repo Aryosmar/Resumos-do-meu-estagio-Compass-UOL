@@ -1,7 +1,5 @@
 # Quando usar Blockchain
 
-**Guias 101 Blockchains** em 29 de junho de 2020
-
 ## Quando usar a tecnologia Blockchain?
 
 Blockchain é uma tecnologia lucrativa, mas para empresas, é difícil decidir quando usar blockchain ou quando não usar blockchain. Afinal, blockchain ainda não se tornou mainstream ou maduro.
