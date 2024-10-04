@@ -16,7 +16,6 @@ Uma blockchain, como o nome diz, é uma cadeia de blocos. Cada bloco contém uma
 
 **Resposta:** Uma função Hash pega um texto de entrada (input) de qualquer tamanho e gera um texto de saída (output) de tamanho fixo, que é uma combinação de letras e números. Essa função tem várias propriedades que garantem a segurança da blockchain, como a dificuldade de gerar o mesmo output para diferentes inputs e a irreversibilidade do processo.
 
-<<<<<<< HEAD
 ![Função hash](material/Hash.png)
 
 ## Exemplo prático
@@ -33,20 +32,18 @@ Uma blockchain, como o nome diz, é uma cadeia de blocos. Cada bloco contém uma
 
 Ela é unidirecional, ou seja, dado um output, é quase impossível determinar qual foi o input que o gerou. Para descobrir, seria necessário testar todos os inputs possíveis. Além disso, ela é "puzzle friendly", o que significa que pequenas mudanças no input causam grandes mudanças no output.
 
-![Função hash](material/hash3.png)
+![Função hash](hash3.png)
 
 ## Função Hash criptografada
 
-![Funções_criptografadas](material/criptografadas.png)
+![Funções_criptografadas](criptografadas.png)
 
 ## O que torna a blockchain inviolável?
 
 **Resposta:** A blockchain é inviolável porque cada bloco contém o hash do bloco anterior. Se um hacker tentar modificar os dados de um bloco, ele terá que alterar o hash desse bloco e o hash de todos os blocos subsequentes, o que tornaria evidente qualquer tentativa de fraude.
 
-![Tentativa_de_fraude](material/fraude.png)
+![Tentativa_de_fraude](fraude.png)
 
-![Tentativa_de_fraude](material/fraude2.png)
-=======
->>>>>>> 33797d26fd760158318347c24d3e5b665aa89efc
+![Tentativa_de_fraude](fraude2.png)
 
 
