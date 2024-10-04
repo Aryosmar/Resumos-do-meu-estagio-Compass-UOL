@@ -227,5 +227,5 @@ Com tudo isso dito, o blockchain é uma tecnologia incrível que pode alterar a 
 
 Espero que este artigo ajude você a saber quando usar blockchain e quando não usar blockchain.
 
-Para mais insights sobre o uso de blockchain e muito mais, assine nossa newsletter.
+
 
